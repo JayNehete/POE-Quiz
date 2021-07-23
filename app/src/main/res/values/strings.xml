@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">POE Quiz</string>
+    <string name="poe_quiz">POE Quiz</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="start">Start</string>
+</resources>
